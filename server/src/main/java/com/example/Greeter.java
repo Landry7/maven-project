@@ -11,7 +11,10 @@ public class Greeter {
   public Greeter() {
 
   }
-
+  
+public fonction() {
+}
+  
   /**
   * @param someone name of a person
   * @return greeting string
