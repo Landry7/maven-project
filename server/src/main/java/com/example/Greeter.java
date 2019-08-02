@@ -12,7 +12,7 @@ public class Greeter {
 
   }
   
-public fonction() {
+public void fonction() {
 }
   
   /**
